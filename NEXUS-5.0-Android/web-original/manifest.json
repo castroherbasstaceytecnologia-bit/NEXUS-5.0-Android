@@ -1,0 +1,15 @@
+{
+  "name": "NEXUS 5.0 — Feria de Robótica 2026",
+  "short_name": "NEXUS 5.0",
+  "description": "Presentación interactiva del proyecto de robótica del Colegio HEIDI.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050914",
+  "theme_color": "#050914",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
